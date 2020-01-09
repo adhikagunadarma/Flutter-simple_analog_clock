@@ -1,10 +1,9 @@
 # Analog Clock
 
-This app is an example of an analog clock.
-It has a light theme and a dark theme, and displays sample weather and location data.
+This app is an modified version of an analog clock from Flutter clock https://flutter.dev/clock customized by by Adhika Gunadarma.
 
-<img src='analog.gif' width='350'>
 
-<img src='analog_dark.png' width='350'>
 
-<img src='analog_light.png' width='350'>
+<img src='ss_landscape.png'>
+
+<img src='ss_potrait.png'>
